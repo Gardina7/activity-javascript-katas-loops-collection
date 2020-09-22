@@ -39,10 +39,10 @@
   console.log('%cKATA 03 RESULTS:', 'background: darkblue; color: white; font-weight: bold;')
  
 
-  let counter3 =3/* Write your KATA 03 code in place of THIS comment. */
+  let counter3 =1/* Write your KATA 03 code in place of THIS comment. */
   while(counter3<=20){
     console.log(counter3);
-    counter3=counter3 +3
+    counter3=counter3 +2
   }
 
 /** KATA 04 ⮕
